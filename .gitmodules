@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "dedupewider"]
+	path = dedupewider
+	url = https://github.com/gsmolinski/dedupewider
+	shallow = true
+	registered = true
